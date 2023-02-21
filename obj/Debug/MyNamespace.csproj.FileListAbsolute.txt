@@ -1,0 +1,8 @@
+C:\Users\Wiz\Desktop\IGME 201\MyNamespace\obj\Debug\MyNamespace.csproj.AssemblyReference.cache
+C:\Users\Wiz\Desktop\IGME 201\MyNamespace\obj\Debug\MyNamespace.csproj.SuggestedBindingRedirects.cache
+C:\Users\Wiz\Desktop\IGME 201\MyNamespace\obj\Debug\MyNamespace.csproj.CoreCompileInputs.cache
+C:\Users\Wiz\Desktop\IGME 201\MyNamespace\bin\Debug\MyNamespace.exe.config
+C:\Users\Wiz\Desktop\IGME 201\MyNamespace\bin\Debug\MyNamespace.exe
+C:\Users\Wiz\Desktop\IGME 201\MyNamespace\bin\Debug\MyNamespace.pdb
+C:\Users\Wiz\Desktop\IGME 201\MyNamespace\obj\Debug\MyNamespace.exe
+C:\Users\Wiz\Desktop\IGME 201\MyNamespace\obj\Debug\MyNamespace.pdb
